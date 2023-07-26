@@ -9,4 +9,4 @@ def run_notepad_in_background():
     app.top_window().minimize()
 
 # 메모장 실행
-run_notepad_in_background()
+run_notepad_in_background()g
